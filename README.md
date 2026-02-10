@@ -1,4 +1,4 @@
-# 📄 ListManipulatorCLI
+# ListManipulatorCLI
 
 A command-line C++ program that demonstrates manipulation of a list (`std::list`) using templates and the Standard Template Library (STL). The program supports both `int` and `double` data types and offers a menu-driven interface to perform common list operations.
 
